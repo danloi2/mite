@@ -62,7 +62,7 @@ project:
         postal_code: 20018
         phone: 943 01 70 36
         email: daniel.losada@ehu.eus
-  github: https://github.com/danloi2/MITE2025
+  github: https://github.com/danloi2/mite
 
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
