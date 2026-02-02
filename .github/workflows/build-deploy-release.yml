@@ -1,98 +1,101 @@
-name: Build MyST site, Deploy Pages and Create Release
+# This file was created automatically with `myst init --gh-pages` 🪄 💚
+name: MyST Build, Pages Deploy and Release
 
 on:
-push:
-branches: [main]
-tags: ["v*.*.*"]
+  push:
+    branches: [main]
+    tags: ["v*.*.*"]
 
 env:
-BASE_URL: /${{ github.event.repository.name }}
+  BASE_URL: /${{ github.event.repository.name }}
 
 permissions:
-contents: write
-pages: write
-id-token: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-group: "pages"
-cancel-in-progress: false
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
+    steps:
+      - uses: actions/checkout@v4
 
-steps:
-  - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
 
-  - uses: actions/setup-node@v4
-    with:
-      node-version: 18.x
+      - name: Install MyST Markdown
+        run: npm install -g mystmd
 
-  - name: Install MyST
-    run: npm install -g mystmd
+      - name: Build HTML Assets
+        run: myst build --html
 
-  - name: Build HTML
-    run: myst build --html
+      - name: Create ZIP of site
+        run: |
+          cd _build
+          zip -r myst-site.zip html
 
-  - name: Zip HTML site
-    run: |
-      cd _build
-      zip -r myst-site.zip html
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: myst-site
+          path: |
+            _build/html
+            _build/myst-site.zip
 
-  - name: Upload build artifact
-    uses: actions/upload-artifact@v4
-    with:
-      name: myst-site
-      path: |
-        _build/html
-        _build/myst-site.zip
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
-deploy-pages:
-if: github.ref == 'refs/heads/main'
-needs: build
-runs-on: ubuntu-latest
-environment:
-name: github-pages
-url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: myst-site
+          path: _build
 
-steps:
-  - uses: actions/download-artifact@v4
-    with:
-      name: myst-site
-      path: _build
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
 
-  - name: Setup Pages
-    uses: actions/configure-pages@v3
+      - name: Upload artifact to Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_build/html"
 
-  - name: Upload Pages artifact
-    uses: actions/upload-pages-artifact@v3
-    with:
-      path: '_build/html'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
-  - name: Deploy to GitHub Pages
-    id: deployment
-    uses: actions/deploy-pages@v4
+  release:
+    if: startsWith(github.ref, 'refs/tags/')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # necesario para crear releases
 
-release:
-if: startsWith(github.ref, 'refs/tags/')
-needs: build
-runs-on: ubuntu-latest
+    steps:
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: myst-site
+          path: _build
 
-steps:
-  - uses: actions/download-artifact@v4
-    with:
-      name: myst-site
-      path: _build
+      - name: Rename ZIP with version
+        run: mv _build/myst-site.zip _build/myst-site-${{ github.ref_name }}.zip
 
-  - name: Rename ZIP with version
-    run: |
-      mv _build/myst-site.zip _build/myst-site-${{ github.ref_name }}.zip
-
-  - name: Create GitHub Release
-    uses: softprops/action-gh-release@v2
-    with:
-      files: _build/myst-site-${{ github.ref_name }}.zip
-      generate_release_notes: true
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: _build/myst-site-${{ github.ref_name }}.zip
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
