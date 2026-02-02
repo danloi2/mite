@@ -2,25 +2,29 @@
 version: 1
 project:
   id: 303fc0bd-e316-4e7c-b698-9cfb177e038b
-  license: CC-BY-4.0
+  license: MIT
   open_access: true
   title: TFM en Acción
   subtitle: Guía Didáctica
-  #short_title: MITE
+  short_title: MITE
   description: Guía Didáctica de la Asignatura "Metodología de Investigación en Tecnología Educativa"
-  # keywords: []
+  keywords: ["Metodología de Investigación", "Tecnología Educativa", "Trabajo Fin de Máster", "Investigación Basada en Diseño", "Revisión Sistemática de la Literatura"]
   bibliography: recursos/biblio.bib
-  date: 2025-01-01
+  date: 2026-02-01
   plugins:
     - src/xref.mjs
     - src/landing-page.mjs
     - src/directives.mjs
     - src/admonition.mjs
   downloads:
-    - file: ./recursos/2025_GuiaMITE.pdf
+    - file: ./recursos/2026_Guia.pdf
+      title: Guía del Máster
+    - file: ./recursos/2026_GuiaMITE.pdf
       title: Guía Didáctica MITE
-    - file: ./recursos/2025_Guia_TFM_v1.pdf
+    - file: ./recursos/2026_Guia_TFM_v1.pdf
       title: Guía Didáctica TFM
+    - file: ./recursos/2026_Calendario.pdf
+      title: Calendario del Máster
   abbreviations:
      MITE: Metodología de Investigación en Tecnología Educativa
      TFM: Trabajo Fin de Máster
@@ -55,7 +59,7 @@ project:
         city: 20018-Donostia San Sebastián
         region: Comunidad Autónoma del País Vasco
         country: España
-        postal_code: 20100
+        postal_code: 20018
         phone: 943 01 70 36
         email: daniel.losada@ehu.eus
   github: https://github.com/danloi2/MITE2025

@@ -10,7 +10,7 @@ site:
 
 ---
 
-- **Fecha de Entrega**: 12/01/2025
+- **Fecha de Entrega**: 18/02/2026
 
 - **{term}`Taxonomía de Bloom`**: Nivel 4 ({term}`Analizar`) 
 
@@ -67,36 +67,31 @@ Fundamentos Teóricos
 
 #### Web Of Science
 
-:::{iframe} https://www.youtube.com/embed/XtY6cI5OlkM?si=OBFwh50__sy9-MBR
+:::{iframe} https://youtu.be/tKCVOOLoURI
 :width: 100%
-[Mis primeros pasos con Web of Science (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24-09-17_mis_primeros_pasos_wos.pdf)
+[Sesión A1 Mis primeros pasos con Web of Science (septiembre 2025)](https://www.recursoscientificos.fecyt.es/sites/default/files/Sesi%C3%B3n%20A1_Mis%20primeros%20pasos%20con%20Web%20of%20Science%20(Sep2025)_act.pdf)
 :::
 
-:::{iframe} https://www.youtube.com/embed/0inlHz7EJiw?si=P3CK_asx9wMofiHL
+:::{iframe} https://youtu.be/tFJbYlSnsqQ
 :width: 100%
-[Utilizar operadores booleanos y guardar mis consultas en Web of Science (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/24_09_17_Operadores_Boleanos.pdf)
+[Sesión A2 Buscar en Web of Science y guardar mis consultas (septiembre 2025)](https://www.recursoscientificos.fecyt.es/sites/default/files/Sesi%C3%B3n%20A2_Buscar%20en%20Web%20of%20Science%20y%20guardar%20mis%20consultas%20(Sep2025).pdf)
 :::
 
-:::{iframe} https://www.youtube.com/embed/t79Y7-dXOKY?si=pfUJanhjNxZFSMxm
+:::{iframe} https://youtu.be/-71N_WoaSbs
 :width: 100%
-[Utilizar Web of Science para identificar los documentos más relevantes (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/doc_formacion/20240919_wos_identificar_documentos_relevantes.pdf)
+[Sesión A3 Identificar los documentos más importantes con Web of Science (octubre 2025)](https://www.recursoscientificos.fecyt.es/sites/default/files/Sesi%C3%B3n%20A3_Identificar%20los%20documentos%20m%C3%A1s%20importantes%20con%20Web%20of%20Science%20(Oct2025).pdf)
 :::
 
 #### Scopus
 
-:::{iframe} https://www.youtube.com/embed/RLv-6EODyPc?si=vMIprJzhuP4OEYU5
+:::{iframe} https://youtu.be/QlpKEWuziJA
 :width: 100%
-[Introducción a Scopus y primeras búsquedas (Básico 1)](https://www.recursoscientificos.fecyt.es/sites/default/files/introduccion_scopus.pdf)
+[Scopus - nivel básico e intermedio](https://www.recursoscientificos.fecyt.es/sites/default/files/Fecyt_ScopusIntro.pdf)
 :::
 
-:::{iframe} https://www.youtube.com/embed/jsNYH-RIraI?si=y6jBn2XnkPXV1Kk9
+:::{iframe} https://youtu.be/1hu2EFzp5AI
 :width: 100%
-[Scopus Búsquedas y análisis de resultados (Básico 1)]()
-:::
-
-:::{iframe} https://www.youtube.com/embed/Z5MsUqqkK7o?si=q-aU24SRsVIFNUM-
-:width: 100%
-[Scopus búsqueda avanzada (Básico 1)]()
+[Scopus - búsqueda avanzada](https://www.recursoscientificos.fecyt.es/sites/default/files/3.B%C3%BAsquedaAvanzada_0.pdf)
 :::
 
 ### Recursos TIC 

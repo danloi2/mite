@@ -10,7 +10,7 @@ site:
 
 ---
 
-- **Fecha de Entrega**: 07/01/2025
+- **Fecha de Entrega**: 13/02/2026
 
 - **{term}`Taxonomía de Bloom`**: Nivel 3 ({term}`Aplicar`) 
 

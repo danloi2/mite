@@ -10,7 +10,7 @@ site:
 
 ---
 
-- **Fecha de Entrega**: 14/01/2025
+- **Fecha de Entrega**: 20/02/2026
 
 - **{term}`Taxonomía de Bloom`**: Nivel 5 ({term}`Evaluar`) 
 

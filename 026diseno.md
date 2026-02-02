@@ -10,9 +10,9 @@ site:
 
 ---
 
-- **Fecha de Entrega**: 20/01/2025
+- **Fecha de Entrega**: 25/02/2026
 
-- **{term}`Taxonomía de Bloom`**: Nivel 5 ({term}`Evaluar`) 
+- **{term}`Taxonomía de Bloom`**: Nivel 5 ({term}`Evaluar`)
 
 ---
 
@@ -40,67 +40,78 @@ Justificar un diseño de investigación en base a tu problema, considerando las 
 ### Diseño de Investigación
 
 **(a) Define el tipo de investigación**
-    
-* {term}`investigación cuantitativa`
-    * Descriptivo: Busca describir características y fenómenos educativos, como el rendimiento académico de los estudiantes, la prevalencia de ciertos comportamientos o las actitudes de los docentes.
-    * Correlacional:  Explora la relación entre dos o más variables educativas, como la relación entre el nivel socioeconómico y el rendimiento académico, o entre la motivación y la participación en clase.
-    * Causal/Comparativo: Investiga relaciones de causa y efecto en el ámbito educativo, como el impacto de una nueva metodología de enseñanza en el aprendizaje de los estudiantes, o la efectividad de diferentes programas de intervención.
-    * No Experimental: Observa fenómenos educativos sin manipular variables, como estudios observacionales sobre el comportamiento de los estudiantes en el aula, o investigaciones sobre las prácticas de enseñanza de los docentes.
-    * Cuasi-experimental: Manipula variables en contextos educativos reales, pero sin asignación aleatoria de participantes, como la evaluación de un programa de tutoría en una escuela donde no es posible asignar estudiantes aleatoriamente a grupos de control y experimental.
-    * Experimental: Manipula variables y asigna participantes aleatoriamente a grupos de control y experimental, como ensayos controlados aleatorios para evaluar la eficacia de intervenciones educativas específicas.
-* {term}`investigación cualitativa`
-    * Narrativo: Explora cómo los estudiantes, docentes u otros actores educativos construyen y dan sentido a sus experiencias a través de historias y relatos.
-    * Fenomenológico: Describe la esencia de un fenómeno educativo desde la perspectiva de quienes lo experimentan, como la experiencia de ser un estudiante con dislexia, o la vivencia de un docente al implementar una nueva metodología.
-    * Etnográfico: Estudia la cultura y prácticas de un grupo o comunidad educativa en su entorno natural, como la cultura de un aula, o las prácticas de enseñanza en una escuela rural.
-    * Investigación-acción: Busca resolver problemas prácticos en un contexto educativo específico, a través de ciclos de acción y reflexión. Los docentes, por ejemplo, pueden investigar cómo mejorar la participación de los estudiantes en clase.
-    * Estudio de caso: Analiza en profundidad un caso particular (estudiante, docente, programa, institución) para comprender su complejidad y singularidad.
-    * Teoría fundamentada: Desarrolla teorías que expliquen fenómenos educativos a partir de los datos recopilados, como la teoría sobre cómo se construye la identidad profesional de los docentes.
-* {term}`investigación mixta`
-    * Secuencial/Iterativo: Utiliza métodos cuantitativos y cualitativos en fases sucesivas, por ejemplo, primero se realiza un estudio cuantitativo para identificar tendencias, y luego se realiza un estudio cualitativo para profundizar en la comprensión de esas tendencias.
-    * Concurrente/Simultáneo: Utiliza métodos cuantitativos y cualitativos al mismo tiempo, por ejemplo, se recopilan datos de encuestas y entrevistas simultáneamente para obtener una visión más completa del fenómeno estudiado.
+
+:::{glossary}
+Diseño de Investigación
+
+: El diseño de investigación es el plan estructurado que guía todo el proceso de un estudio, desde la formulación de las preguntas de investigación hasta la interpretación de los resultados. Constituye la estrategia metodológica que permite responder al problema planteado de manera coherente, rigurosa y sistemática, asegurando que las decisiones tomadas durante el proceso estén alineadas con los objetivos del estudio.
+
+Este diseño define aspectos fundamentales como el enfoque metodológico (cuantitativo, cualitativo o mixto), el tipo de estudio que se llevará a cabo, las variables o fenómenos que serán analizados, la selección de los participantes, las técnicas de recogida de datos y los procedimientos para su análisis. En otras palabras, el diseño de investigación funciona como la “hoja de ruta” que orienta todas las fases del trabajo investigativo.
+
+En el ámbito educativo, y especialmente en Tecnología Educativa, la elección de un diseño adecuado es clave, ya que los fenómenos estudiados suelen estar influenciados por múltiples factores pedagógicos, tecnológicos y contextuales. Por ello, seleccionar el diseño más pertinente permite obtener resultados válidos, fiables y útiles para la mejora de la práctica educativa.
+:::
+
+A continuación, se presentan los principales tipos de diseño dentro de la investigación cuantitativa.
+
+- {term}`investigación cuantitativa`
+  - Descriptivo: Busca describir características y fenómenos educativos, como el rendimiento académico de los estudiantes, la prevalencia de ciertos comportamientos o las actitudes de los docentes.
+  - Correlacional:  Explora la relación entre dos o más variables educativas, como la relación entre el nivel socioeconómico y el rendimiento académico, o entre la motivación y la participación en clase.
+  - Causal/Comparativo: Investiga relaciones de causa y efecto en el ámbito educativo, como el impacto de una nueva metodología de enseñanza en el aprendizaje de los estudiantes, o la efectividad de diferentes programas de intervención.
+  - No Experimental: Observa fenómenos educativos sin manipular variables, como estudios observacionales sobre el comportamiento de los estudiantes en el aula, o investigaciones sobre las prácticas de enseñanza de los docentes.
+  - Cuasi-experimental: Manipula variables en contextos educativos reales, pero sin asignación aleatoria de participantes, como la evaluación de un programa de tutoría en una escuela donde no es posible asignar estudiantes aleatoriamente a grupos de control y experimental.
+  - Experimental: Manipula variables y asigna participantes aleatoriamente a grupos de control y experimental, como ensayos controlados aleatorios para evaluar la eficacia de intervenciones educativas específicas.
+- {term}`investigación cualitativa`
+  - Narrativo: Explora cómo los estudiantes, docentes u otros actores educativos construyen y dan sentido a sus experiencias a través de historias y relatos.
+  - Fenomenológico: Describe la esencia de un fenómeno educativo desde la perspectiva de quienes lo experimentan, como la experiencia de ser un estudiante con dislexia, o la vivencia de un docente al implementar una nueva metodología.
+  - Etnográfico: Estudia la cultura y prácticas de un grupo o comunidad educativa en su entorno natural, como la cultura de un aula, o las prácticas de enseñanza en una escuela rural.
+  - Investigación-acción: Busca resolver problemas prácticos en un contexto educativo específico, a través de ciclos de acción y reflexión. Los docentes, por ejemplo, pueden investigar cómo mejorar la participación de los estudiantes en clase.
+  - Estudio de caso: Analiza en profundidad un caso particular (estudiante, docente, programa, institución) para comprender su complejidad y singularidad.
+  - Teoría fundamentada: Desarrolla teorías que expliquen fenómenos educativos a partir de los datos recopilados, como la teoría sobre cómo se construye la identidad profesional de los docentes.
+- {term}`investigación mixta`
+  - Secuencial/Iterativo: Utiliza métodos cuantitativos y cualitativos en fases sucesivas, por ejemplo, primero se realiza un estudio cuantitativo para identificar tendencias, y luego se realiza un estudio cualitativo para profundizar en la comprensión de esas tendencias.
+  - Concurrente/Simultáneo: Utiliza métodos cuantitativos y cualitativos al mismo tiempo, por ejemplo, se recopilan datos de encuestas y entrevistas simultáneamente para obtener una visión más completa del fenómeno estudiado.
 
 Dentro de esta categorización, se encuentras dos metodologías recomendadas en este Máster, que pueden adoptar formas cuantitativas, cualitativas o mixtas:
 
-* **Revisión Sistemática de la Literatura (RSL)**: Es una metodología de investigación que busca **sintetizar la evidencia existente sobre un tema específico de manera rigurosa y sistemática**. A diferencia de las revisiones tradicionales, que pueden ser más subjetivas y no exhaustivas, las RSL siguen un **proceso estructurado** para identificar, seleccionar, evaluar críticamente y analizar los estudios relevantes.
-    * **RSL de enfoque Cuantitativo**: Pueden **revisar estudios cuantitativos para sintetizar los hallazgos sobre la efectividad de intervenciones, la relación entre variables o la prevalencia de fenómenos educativos**. Por ejemplo, una RSL podría analizar todos los estudios experimentales sobre el impacto de la gamificación en el aprendizaje de matemáticas.
-    
-    * **RSL de enfoque Cualitativo**: Pueden **revisar estudios cualitativos para sintetizar las experiencias, perspectivas y significados de los participantes sobre un fenómeno educativo**. Por ejemplo, una RSL podría analizar todos los estudios fenomenológicos sobre la experiencia de ser un estudiante con TDAH en el aula.
-    
-    * **RSL  de enfoque Mixto**: Pueden **revisar estudios que combinan métodos cuantitativos y cualitativos*para obtener una comprensión más completa de un problema educativo**. Por ejemplo, una RSL podría analizar estudios que combinan encuestas y entrevistas para investigar la relación entre la motivación y el rendimiento académico
+- **Revisión Sistemática de la Literatura (RSL)**: Es una metodología de investigación que busca **sintetizar la evidencia existente sobre un tema específico de manera rigurosa y sistemática**. A diferencia de las revisiones tradicionales, que pueden ser más subjetivas y no exhaustivas, las RSL siguen un **proceso estructurado** para identificar, seleccionar, evaluar críticamente y analizar los estudios relevantes.
+  - **RSL de enfoque Cuantitativo**: Pueden **revisar estudios cuantitativos para sintetizar los hallazgos sobre la efectividad de intervenciones, la relación entre variables o la prevalencia de fenómenos educativos**. Por ejemplo, una RSL podría analizar todos los estudios experimentales sobre el impacto de la gamificación en el aprendizaje de matemáticas.
+
+  - **RSL de enfoque Cualitativo**: Pueden **revisar estudios cualitativos para sintetizar las experiencias, perspectivas y significados de los participantes sobre un fenómeno educativo**. Por ejemplo, una RSL podría analizar todos los estudios fenomenológicos sobre la experiencia de ser un estudiante con TDAH en el aula.
+
+  - **RSL  de enfoque Mixto**: Pueden **revisar estudios que combinan métodos cuantitativos y cualitativos*para obtener una comprensión más completa de un problema educativo**. Por ejemplo, una RSL podría analizar estudios que combinan encuestas y entrevistas para investigar la relación entre la motivación y el rendimiento académico
 
     Existen una serie de guías para la realización de RSL avaladas por expertos. Las más conocidas son: PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) y SALSA (Search, Appraisal, Synthesis and Analysis)
 
-    * **PRISMA**: es una **guía para la presentación de informes de revisiones sistemáticas y meta-análisis**. Proporciona una **lista de verificación de elementos que deben incluirse en un informe de RSL para garantizar la transparencia y la integridad del proceso**.Ayuda a los investigadores a comunicar de manera clara y completa los resultados de sus revisiones, desde la identificación y selección de estudios hasta la síntesis de los resultados y las conclusiones.
+  - **PRISMA**: es una **guía para la presentación de informes de revisiones sistemáticas y meta-análisis**. Proporciona una **lista de verificación de elementos que deben incluirse en un informe de RSL para garantizar la transparencia y la integridad del proceso**.Ayuda a los investigadores a comunicar de manera clara y completa los resultados de sus revisiones, desde la identificación y selección de estudios hasta la síntesis de los resultados y las conclusiones.
 
         [Web de PRISMA](https://www.prisma-statement.org/)
 
-
-    * **SALSA**; es un **marco metodológico para realizar revisiones sistemáticas de estudios cualitativos**. Proporciona **una estructura para buscar, evaluar, sintetizar y analizar estudios cualitativos de manera sistemática y rigurosa**. Guía a los investigadores en cada etapa del proceso de revisión, desde la formulación de la pregunta de investigación hasta la interpretación de los resultados.
+  - **SALSA**; es un **marco metodológico para realizar revisiones sistemáticas de estudios cualitativos**. Proporciona **una estructura para buscar, evaluar, sintetizar y analizar estudios cualitativos de manera sistemática y rigurosa**. Guía a los investigadores en cada etapa del proceso de revisión, desde la formulación de la pregunta de investigación hasta la interpretación de los resultados.
 
         [Investigador Experto en RSL](https://www.lluiscodina.com/)
 
         [Scoping Reviews](https://drive.google.com/drive/folders/1mi3whmJxMmE2qmMGeVkVZduZ5ebIHOM3)
 
-* **Investigación Basada en Diseño (DBR)**: Es una **metodología de investigación iterativo y cíclico que busca diseñar y evaluar intervenciones complejas en contextos del mundo real**, con el objetivo de generar conocimiento teórico y práctico. Se centra en resolver problemas prácticos y mejorar situaciones específicas, a la vez que contribuye a la teoría y al diseño.
-    * **DBR de enfoque Cuantitativo**: Puede **utilizar métodos cuantitativos para evaluar la efectividad de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar experimentos o cuasi-experimentos para medir el impacto de una nueva metodología de enseñanza en el rendimiento de los estudiantes.
-    * **DBR de enfoque Cualitativo**: Puede **utilizar métodos cualitativos para comprender las experiencias y perspectivas de los participantes en relación con las intervenciones diseñadas**. Por ejemplo, se pueden utilizar entrevistas o grupos focales para explorar cómo los estudiantes perciben una nueva herramienta de aprendizaje en línea.
-    * **DBR de enfoque Mixto**: Puede **combinar métodos cuantitativos y cualitativos para obtener una comprensión más completa de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar encuestas para medir el impacto general de una intervención, y entrevistas para explorar las experiencias individuales de los participantes.
+- **Investigación Basada en Diseño (DBR)**: Es una **metodología de investigación iterativo y cíclico que busca diseñar y evaluar intervenciones complejas en contextos del mundo real**, con el objetivo de generar conocimiento teórico y práctico. Se centra en resolver problemas prácticos y mejorar situaciones específicas, a la vez que contribuye a la teoría y al diseño.
+  - **DBR de enfoque Cuantitativo**: Puede **utilizar métodos cuantitativos para evaluar la efectividad de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar experimentos o cuasi-experimentos para medir el impacto de una nueva metodología de enseñanza en el rendimiento de los estudiantes.
+  - **DBR de enfoque Cualitativo**: Puede **utilizar métodos cualitativos para comprender las experiencias y perspectivas de los participantes en relación con las intervenciones diseñadas**. Por ejemplo, se pueden utilizar entrevistas o grupos focales para explorar cómo los estudiantes perciben una nueva herramienta de aprendizaje en línea.
+  - **DBR de enfoque Mixto**: Puede **combinar métodos cuantitativos y cualitativos para obtener una comprensión más completa de las intervenciones diseñadas**. Por ejemplo, se pueden utilizar encuestas para medir el impacto general de una intervención, y entrevistas para explorar las experiencias individuales de los participantes.
 
 **(b) Reflexiona sobre la calidad de una investigación**
 
-Se mide a través de diferentes criterios que aseguran la validez, fiabilidad y aplicabilidad de los resultados. Los criterios de calidad en {term}`investigación cuantitativa` son: 
+Se mide a través de diferentes criterios que aseguran la validez, fiabilidad y aplicabilidad de los resultados. Los criterios de calidad en {term}`investigación cuantitativa` son:
 
 :::{glossary}
 
 **Validez Interna**  
-: Definición: Se refiere a la capacidad del estudio para establecer relaciones causales claras entre variables, minimizando factores externos que puedan influir en los resultados. \
+: *Definición*: Se refiere a la capacidad del estudio para establecer relaciones causales claras entre variables, minimizando factores externos que puedan influir en los resultados. \
 *Estrategia general*: Controlar variables extrañas mediante aleatorización, uso de grupos de control y cegamiento.  \
 *Estrategia específica para RSL*: Para mejorar la validez interna en una Revisión Sistemática de Literatura (RSL) en Prisma, puedes emplear la estrategia de doble codificación independiente en la fase de selección y extracción de datos mediante varios revisores para la selección de datos y varios  evaluadores para la extracción de datos.
 
-**Validez Externa** 
-: Definición: Evalúa si los hallazgos pueden generalizarse a otros contextos, poblaciones o situaciones. Tipos: **Validez poblacional**: Generalización a otros grupos de individuos; **Validez muestral**: Representatividad de la muestra utilizada; **Va*lidez ecológica**: Aplicabilidad de los resultados en situaciones reales. \
+**Validez Externa**
+: *Definición*: Evalúa si los hallazgos pueden generalizarse a otros contextos, poblaciones o situaciones. Tipos: **Validez poblacional**: Generalización a otros grupos de individuos; **Validez muestral**: Representatividad de la muestra utilizada; **Va*lidez ecológica**: Aplicabilidad de los resultados en situaciones reales. \
 *Estrategia general*: Utilizar muestras representativas y replicar estudios en diferentes entornos. \
-*Estrategia específica para RSL*: Incluir estudios de diversas regiones geográficas y contextos educativos digitales, por ejemplo, plataformas de aprendizaje en línea, gamificación, etc., para garantizar la diversidad de datos.   
+*Estrategia específica para RSL*: Incluir estudios de diversas regiones geográficas y contextos educativos digitales, por ejemplo, plataformas de aprendizaje en línea, gamificación, etc., para garantizar la diversidad de datos.
 
 **Fiabilidad**  
 : *Definición*: Mide la consistencia y precisión de las mediciones utilizadas en el estudio. Un estudio fiable produce resultados similares bajo las mismas condiciones. Tipos: **Test-retest** (estabilidad): Medición repetida en el tiempo; **Formas paralelas**: Uso de pruebas equivalentes; **Consistencia interna**: Correlación entre diferentes ítems de una misma prueba. \
@@ -114,7 +125,7 @@ Se mide a través de diferentes criterios que aseguran la validez, fiabilidad y 
 
 :::
 
-Los criterios de calidad en {term}`investigación cualitativa` son: 
+Los criterios de calidad en {term}`investigación cualitativa` son:
 
 :::{glossary}
 
@@ -164,7 +175,7 @@ Los Criterios de calidad en {term}`investigación mixta` son:
 ### Hipótesis y Variables
 
 Las hipótesis y variables son **elementos centrales en las investigaciones cuantitativas, ya que estas permiten establecer relaciones medibles y verificables entre los fenómenos estudiados**. Las variables se desprenden de las hipótesis.
-Además, **en investigaciones mixtas, las hipótesis y variables también están presentes, pero únicamente en la parte cuantitativa del estudio**. 
+Además, **en investigaciones mixtas, las hipótesis y variables también están presentes, pero únicamente en la parte cuantitativa del estudio**.
 
 Sin embargo, **en algunas investigaciones cualitativas**, aunque no se plantean hipótesis formales al estilo cuantitativo, **pueden existir supuestos o preguntas de investigación que actúan como hipótesis exploratorias**, las cuales **buscan entender patrones, significados o comportamientos desde una perspectiva inductiva**. Estas hipótesis suelen ser **flexibles y evolucionan a medida que se recolectan y analizan los datos cualitativos**, lo que refleja un enfoque más abierto y emergente en contraste con la rigidez estructural de las hipótesis cuantitativas
 
@@ -174,10 +185,9 @@ Sin embargo, **en algunas investigaciones cualitativas**, aunque no se plantean 
 
 Hipótesis
 : Una suposición o afirmación tentativa que establece una relación entre dos o más variables en un estudio. Sirve como punto de partida para la investigación y se somete a prueba mediante la recolección y análisis de datos. \
-Ejemplo: "El uso de herramientas digitales en el aula mejora el rendimiento académico en matemáticas de los estudiantes de secundaria." 
+Ejemplo: "El uso de herramientas digitales en el aula mejora el rendimiento académico en matemáticas de los estudiantes de secundaria."
 
 :::
-
 
 **(b) Variables**
 
@@ -187,21 +197,21 @@ Variables
 : Desempeñan un papel fundamental, ya que permiten definir, medir y analizar los fenómenos estudiados. Se definen como cualquier elemento, característica o propiedad que puede variar y afectar el objeto de estudio.
 :::
 
-* Tipos de Variables
+- Tipos de Variables
 
-    * **Variable Independiente (VI)**
+  - **Variable Independiente (VI)**
 
     Es aquella que el investigador manipula o considera como la causa del fenómeno estudiado.
 
     Ejemplo: Uso de herramientas digitales en el aula.
 
-    * **Variable Dependiente (VD)**
+  - **Variable Dependiente (VD)**
 
     Es el resultado o efecto medido en la investigación y depende de la variable independiente.
 
     Ejemplo: Rendimiento académico en matemáticas.
 
-    * **Variable Mediadora (VM)**
+  - **Variable Mediadora (VM)**
 
     Explica cómo o por qué la variable independiente influye en la variable dependiente. Es un paso intermedio en la relación causal.
 
@@ -209,7 +219,7 @@ Variables
 
     Estructura causal: Uso de herramientas digitales (VI) → Motivación del estudiante (VM) → Rendimiento académico (VD).
 
-    * **Variable Moderadora (VMod)**
+  - **Variable Moderadora (VMod)**
 
     Modifica la intensidad o dirección de la relación entre la variable independiente y la dependiente. No es un paso intermedio, sino un factor que condiciona el efecto.
 
@@ -217,13 +227,14 @@ Variables
 
     Estructura causal: Uso de herramientas digitales (VI) → (según el nivel de alfabetización digital del docente) → Rendimiento académico (VD).
 
-    * **Variable Controlada o Interviniente**
+  - **Variable Controlada o Interviniente**
 
     Son factores que podrían influir en la relación entre la VI y la VD y que el investigador intenta mantener constantes o controlar.
-       
+
     Ejemplo: Nivel socioeconómico, formación previa del docente, motivación del estudiante.
 
 ### Informantes, participantes o descripción del caso
+
 **(a) Población de estudio**
 
 Se refiere al **conjunto completo de elementos o individuos que poseen las características de interés para una investigación**. Es el grupo total sobre el cual se desea obtener información y conclusiones
@@ -233,8 +244,8 @@ Se refiere al **conjunto completo de elementos o individuos que poseen las carac
 Es un **subconjunto representativo seleccionado de esa población**, que se utiliza para realizar inferencias estadísticas o analíticas sobre la población completa, especialmente cuando estudiar a toda la población no es viable por razones prácticas o económicas. Se obtiene a través de un muestreo.
 
 :::{glossary}
-
 Muestreo Probabilístico
+
 : Es aquel en el que todos los elementos de la población tienen la misma probabilidad de ser seleccionados. Se utiliza en estudios cuantitativos para garantizar la representatividad de la muestra. \
 **Muestreo aleatorio simple**: Cada individuo tiene la misma probabilidad de ser elegido. Se usa en poblaciones pequeñas y homogéneas. \
 **Muestreo sistemático**: Se selecciona cada "n" elemento de una lista ordenada. Es útil cuando se tiene un listado organizado de la población. \
@@ -268,14 +279,14 @@ Participantes
 : son las **personas que toman parte activa en la investigación**, generalmente siendo **conscientes de su participación**. Este término es más común en **estudios cuantitativos y mixtos**, donde los sujetos responden encuestas, pruebas o experimentos. Por ejemplo, en una investigación sobre el impacto de un programa de aprendizaje digital, los participantes podrían ser estudiantes que completan cuestionarios sobre su experiencia. \
 **Uso en investigación cualitativa**: Aunque menos frecuente, el término "participantes" también **puede usarse cuando las personas están involucradas en entrevistas o grupos focales, pero su papel suele ser más descriptivo que interpretativo**. \
 **Uso en investigación cuantitativa** : Aquí, los **participantes son esenciales, ya que son quienes proporcionan los datos necesarios para el análisis estadístico**. \
-**Uso en investigación mixta** : Se utiliza tanto en la **fase cuantitativa** (como encuestados) como en la **cualitativa** (como informantes o colaboradores). 
+**Uso en investigación mixta** : Se utiliza tanto en la **fase cuantitativa** (como encuestados) como en la **cualitativa** (como informantes o colaboradores).
 
 Descripción del caso
 : La descripción del caso se refiere al **análisis detallado de una unidad específica, como una persona, grupo, institución o evento**. Este enfoque es característico de **estudios cualitativos, especialmente en metodologías como el estudio de caso**. Por ejemplo, en una investigación sobre el uso de plataformas virtuales en educación, un caso podría ser una escuela que implementó un modelo innovador de enseñanza digital. \
 **Uso en investigación cualitativa de Estudio de Caso** : Es **central**, ya que permite explorar en profundidad un fenómeno desde múltiples perspectivas. \
 **Uso en investigación mixta**: **El Estudio de Caso puede complementar la parte cualitativa**, proporcionando ejemplos ilustrativos que enriquecen los hallazgos cuantitativos.
 
-:::    
+:::
 
 ### Herramientas para la Recogida de Datos
 
@@ -315,26 +326,26 @@ Diarios reflexivos
 
 Análisis de documentos y artefactos
 : Revisión de materiales educativos, diarios de aprendizaje, portafolios estudiantiles o planes de estudio.
-    
+
 :::
 
 (c) **Triangulación de Herramientas y Sujetos**
 
- ### Proceso
+### Proceso
 
 :::{glossary}
 
 Fase de Planificación
 : En esta fase se define el problema de investigación, los objetivos, la metodología y el diseño del estudio. Se establecen las hipótesis (en caso de investigaciones cuantitativas) y se seleccionan las herramientas de recogida de datos. También se determina la muestra y los criterios éticos que guiarán el estudio.
-    
+
 Fase de Recogida de Información
 : Aquí se aplican los instrumentos diseñados en la fase anterior, como encuestas, entrevistas, observaciones o pruebas. Se recopilan los datos necesarios según el enfoque metodológico (cuantitativo, cualitativo o mixto). Es fundamental garantizar la validez y fiabilidad en la obtención de la información.
-    
+
 Fase de Análisis
 : En esta etapa, los datos recopilados se organizan, procesan e interpretan. En estudios cuantitativos, se aplican técnicas estadísticas para identificar patrones y relaciones. En estudios cualitativos, se realiza una codificación y análisis temático para interpretar significados. Se comparan los resultados con los objetivos y marcos teóricos establecidos.
 
 Fase de Difusión
-: los hallazgos se presentan en informes, artículos científicos, conferencias o presentaciones académicas. Se comparten los resultados con la comunidad educativa y otros investigadores, permitiendo la aplicación del conocimiento generado y su impacto en la práctica educativa. 
+: los hallazgos se presentan en informes, artículos científicos, conferencias o presentaciones académicas. Se comparten los resultados con la comunidad educativa y otros investigadores, permitiendo la aplicación del conocimiento generado y su impacto en la práctica educativa.
 
 :::
 
@@ -385,7 +396,7 @@ Análisis de correspondencia
 : Relaciona datos cualitativos y cuantitativos para interpretar tendencias.
 
 :::
-    
+
 **(b) Estratégias para el Análisis de Datos**
 
 Las estrategias son enfoques o planes de acción que facilitan el procesamiento e interpretación de los datos.
@@ -412,7 +423,7 @@ Comparación de resultados
 Codificación abierta, axial y selectiva
 : Organiza la información en categorías para un análisis estructurado.
 
-Uso de narrativas y 
+Uso de narrativas y
 : Permite comprender experiencias desde la perspectiva de los participantes.
 
 Análisis inductivo
@@ -465,7 +476,7 @@ Software de codificación y análisis de contenido de datos cualitativos
 :::{glossary}
 
 Software que permite el análisis combinado de texto y números
-: QDA Mine, Dedoose 
+: QDA Mine, Dedoose
 
 Visualización de datos cualitativos y cuantitativos de manera integrada
 : Power BI y Tableau.
@@ -473,7 +484,6 @@ Visualización de datos cualitativos y cuantitativos de manera integrada
 :::
 
 ### Implicaciones Éticas
-
 
 :::{glossary}
 
@@ -494,7 +504,6 @@ Consentimiento Informado
 - [ ] En estudios con estudiantes menores de edad, se requiere el consentimiento de los padres o tutores legales.
 - [ ] En investigaciones con docentes o directivos, se debe obtener su autorización voluntaria.
 - [ ] En estudios observacionales en aulas, es importante informar tanto a los profesores como a los estudiantes sobre el uso de la información recopilada.
-
 
 :::{glossary}
 
@@ -517,13 +526,11 @@ Plagio
 - [X] Utilizar herramientas antiplagio como Turnitin, Plagscan o Grammarly.
 - [X] Mantener un registro de las fuentes consultadas durante la investigación.
 
-
-
-3. **COMPARTE** tu diseño en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
+1. **COMPARTE** tu diseño en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 
 ## Recursos  
 
-### Lecturas 
+### Lecturas
 
 - [ ] Estadística para no estadísticos. {cite:p}`2020galindo`
 - [ ] Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos {cite:p}`2017navarro7`
@@ -532,9 +539,9 @@ Plagio
 - [ ] Capítulo 8.- Definiendo estrategias de validez y veracidad {cite:p}`2021jorrin8`
 - [ ] Capítulo 9. Procedimientos y principios éticos de la investigación {cite:p}`2021jorrin9`
 
-### Recursos TIC 
+### Recursos TIC
 
-:::{iframe} https://view.genially.com/6746ef717d0d0098a8aa6132
+:::{iframe} <https://view.genially.com/6746ef717d0d0098a8aa6132>
 :width: 100%
 Elije la herramienta TIC adecuada
 :::

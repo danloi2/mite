@@ -10,7 +10,7 @@ site:
 
 ---
 
-- **Fecha de Entrega**: 23/01/2025
+- **Fecha de Entrega**: 01/03/2026
 
 - **{term}`Taxonomía de Bloom`**:Nivel 6 ({term}`Crear`) 
 

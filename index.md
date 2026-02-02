@@ -26,12 +26,7 @@ No hay edad que me parezca demasiado tardía para aprender lo que es necesario.
 -- San Agustín (354-430)
 :::
 
-
-
-
 {large}`¡Bienvenidos a una experiencia de aprendizaje en la que diseñarás *un primer esbozo de calidad* de tu futuro **Trabajo Fin de Máster**!`
-
-
 
 :::{admonition} Información del Profesorado
 :class: dropdown
@@ -46,7 +41,7 @@ A lo largo de estas **próximas tres semanas**, te invitamos a embarcarte en un 
 Te centrarás en desarrollar el **{term}`MARCO CONCEPTUAL`** de tu investigación, que es el núcleo fundamental de cualquier investigación rigurosa. Todo esto se reduce a la siguiente pregunta clave:  
 
 :::{pull-quote}
-¿Cómo se diseña un **ESTUDIO CIENTÍFICO** en el ámbito de la **TECNOLOGÍA EDUCATIVA**? 
+¿Cómo se diseña un **ESTUDIO CIENTÍFICO** en el ámbito de la **TECNOLOGÍA EDUCATIVA**?
 :::
 
 ## ¿Qué vas a hacer en la Situacion de Aprendizaje?
@@ -61,23 +56,23 @@ Las lecturas necesarias para llevar a cabo las tareas son las siguientes: @lectu
 :header-rows: 1
 :label: lecturas
 
-   *  - **Apartados del TFM**
-      - **Documentos**
-   *  - **(1) Estructura Básica del Proyecto de TFM**
-      - [Guía Didáctica](recursos/2025_TFM.pdf) \
+* * **Apartados del TFM**
+  * **Documentos**
+* * **(1) Estructura Básica del Proyecto de TFM**
+  * [Guía Didáctica](recursos/2026_TFM.pdf) \
       *Capítulo 2. ¿Qué pasos debo dar? Fases del proceso y elementos del proyecto* \
       {cite:p}`2017navarro2`
-   *  - **(2) Selección del Tema**
-      - *Capítulo 3. ¿Por dónde empiezo? Selección del tema y redacción del trabajo* \
+* * **(2) Selección del Tema**
+  * *Capítulo 3. ¿Por dónde empiezo? Selección del tema y redacción del trabajo* \
       {cite:p}`2017navarro3`
-   *  - **(3) Marco Conceptual**
-      - *Capítulo 5. Definiendo el marco conceptual y las preguntas de investigación* \
+* * **(3) Marco Conceptual**
+  * *Capítulo 5. Definiendo el marco conceptual y las preguntas de investigación* \
       {cite:p}`2021jorrin5`
-   *  - **(4) Recogida de Datos**
-      - *Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos* \
+* * **(4) Recogida de Datos**
+  * *Capítulo 7. ¿Necesito recoger información de los avances? Técnicas e instrumentos* \
       {cite:p}`2017navarro7`
-   *  - **(5) Análisis de Datos**
-      - *Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos* \
+* * **(5) Análisis de Datos**
+  * *Capítulo 7. Definiendo los procedimientos de análisis de datos y sus apoyos tecnológicos* \
       {cite:p}`2021jorrin7`\
       *Capítulo 8. ¿Cómo sé si he conseguido los objetivos? El análisis de información cuantitativa*  \
       {cite:p}`2017navarro8` \
@@ -85,37 +80,37 @@ Las lecturas necesarias para llevar a cabo las tareas son las siguientes: @lectu
       {cite:p}`2017navarro9` \
       *Estadística* \
       {cite:p}`2020galindo`
-  *   - **(6) Rigor Científico**
-      - *Capítulo 8.- Definiendo estrategias de validez y veracidad*
+* * **(6) Rigor Científico**
+  * *Capítulo 8.- Definiendo estrategias de validez y veracidad*
          {cite:p}`2021jorrin8`
-  *   - **(7) Principios Éticos**
-      - *Capítulo 9. Procedimientos y principios éticos de la investigación* \
+* * **(7) Principios Éticos**
+  * *Capítulo 9. Procedimientos y principios éticos de la investigación* \
       {cite:p}`2021jorrin9`\.
-  *   - **(8) Cuestiones Fundamentales sobre la Redacción del Informe**
-      - *Capítulo 10. Redacción del informe de investigación* \
+* * **(8) Cuestiones Fundamentales sobre la Redacción del Informe**
+  * *Capítulo 10. Redacción del informe de investigación* \
         {cite:p}`2021jorrin10` \
          *APA 7* \
          {cite:p}`apaweb` \
          {cite:p}`2022apaehu`
 :::
 
-## ¿Qué te llevarás de esta asignatura? 
+## ¿Qué te llevarás de esta asignatura?
 
 Las competencias investigadoras necesarias para planificar el **{term}`MARCO CONCEPTUAL`**  con los elementos esenciales de un proyecto de investigación en Tecnología Educativa:
- 
-- Seleccionar la **TEMÁTICA** de tu investigación realista, teniedo en cuenta tus intereses y necesidades.
 
-- Reflexionar sobre tu **POSICIONAMIENTO CIÉNTIFICO** como investigador. 
+* Seleccionar la **TEMÁTICA** de tu investigación realista, teniedo en cuenta tus intereses y necesidades.
 
-- Realizar una **REVISIÓN DE LA LITERATURA** sistemática inicial y actualizada.
+* Reflexionar sobre tu **POSICIONAMIENTO CIÉNTIFICO** como investigador.
 
-- Definir un **PROBLEMA DE INVESTIGACIÓN** relevante y viable.
+* Realizar una **REVISIÓN DE LA LITERATURA** sistemática inicial y actualizada.
 
-- Establecer las **PREGUNTAS DE INVESTIGACIÓN** pertinentes y claras.
+* Definir un **PROBLEMA DE INVESTIGACIÓN** relevante y viable.
 
-- Formular los **OBJETIVO GENERAL Y ESPECÍFICOS** de forma precisa y alcanzable.
+* Establecer las **PREGUNTAS DE INVESTIGACIÓN** pertinentes y claras.
 
-- Selecciono un **DISEÑO DE INVESTIGACIÓN** adecuado al contexto y a los objetivos planteados, que cumpla con los estándares éticos más rigurosos.
+* Formular los **OBJETIVO GENERAL Y ESPECÍFICOS** de forma precisa y alcanzable.
+
+* Selecciono un **DISEÑO DE INVESTIGACIÓN** adecuado al contexto y a los objetivos planteados, que cumpla con los estándares éticos más rigurosos.
 
 ## ¿Cuál es el Itinerario de Aprendizaje?
 
@@ -125,54 +120,53 @@ Durante el curso desarrollarás 8 actividades clave: @actividades
 :header-rows: 1
 :label: actividades
 
-   *  - Actividad
-      - Formato de Entrega
-      - Fecha de Entrega
-   *  - [](021objetivosp.md)
-      - Video Presentación
-      - 5/02/2025
-   *  - [](022posicion.md)
-      - Infografía
-      - 7/02/2025
-   *  - [](023bases.md)
-      - Mapa Conceptual
-      - 12/02/2025
-   *  - [](024problema.md)
-      - Presentación Interactiva
-      - 14/02/2025
-   *  - [](025preguntas.md)
-      - Diagrama Visual
-      - 18/02/2025
-   *  - [](026diseno.md)
-      - Mural o tablero digital
-      - 20/02/2025
-   *  - [](031proyecto.md)
-      - PDF
-      - 23/02/2025
-   *  - (8) Reflexión
-      - Prueba Escrita (Examen)
-      - 13/05/2025
+* * Actividad
+  * Formato de Entrega
+  * Fecha de Entrega
+* * [](021objetivosp.md)
+  * Video Presentación
+  * 11/02/2026
+* * [](022posicion.md)
+  * Infografía
+  * 13/02/2026
+* * [](023bases.md)
+  * Mapa Conceptual
+  * 18/02/2026
+* * [](024problema.md)
+  * Presentación Interactiva
+  * 20/02/2026
+* * [](025preguntas.md)
+  * Diagrama Visual
+  * 23/02/2026
+* * [](026diseno.md)
+  * Mural o tablero digital
+  * 25/02/2026
+* * [](031proyecto.md)
+  * PDF
+  * 01/03/2026
+* * (8) Reflexión
+  * Prueba Escrita (Examen)
+  * 13/05/2026
 :::
 
 :::{mermaid}
 :name:actmermaid
 
 gitGraph
-    commit id:"Inicio" type: HIGHLIGHT tag: "03/02"
-    commit id:"Videollamada"type: HIGHLIGHT tag: "04/02"
+    commit id:"Inicio" type: HIGHLIGHT tag: "09/02"
+    commit id:"Videollamada"type: HIGHLIGHT tag: "10/02"
     branch "Marco Conceptual"
-    commit id:"(1) Objetivos" tag: "05/02"
-    commit id:"(2) Posicionamiento" tag: "07/02"
-    commit id:"(3) Bases" tag: "12/02"
-    commit id:"(4) Problema" tag: "14/02"
-    commit id:"(5) Preguntas" tag: "18/02"
-    commit id:"(6) Diseño" tag: "20/02"
+    commit id:"(1) Objetivos" tag: "11/02"
+    commit id:"(2) Posicionamiento" tag: "13/02"
+    commit id:"(3) Bases" tag: "18/02"
+    commit id:"(4) Problema" tag: "20/02"
+    commit id:"(5) Preguntas" tag: "23/02"
+    commit id:"(6) Diseño" tag: "25/02"
     checkout main
-    merge "Marco Conceptual"id:"Proyecto TFM" type: HIGHLIGHT tag: "23/02"
+    merge "Marco Conceptual"id:"Proyecto TFM" type: HIGHLIGHT tag: "01/03"
     commit id:"Examen" type: HIGHLIGHT tag: "13/05"
-    commit id:"Fin" type: HIGHLIGHT tag: "25/06"
+    commit id:"Fin" type: HIGHLIGHT tag: "26/06"
 :::
-
 
 :::{admonition} Fechas de Entrega Aproximadas
 :class: important
@@ -206,22 +200,21 @@ Comprender
 : Comprensión de las ideas y de los conceptos
 
 Aplicar
-: Poner en práctica los procedimientos aprendidos para resolver problemas 
+: Poner en práctica los procedimientos aprendidos para resolver problemas
 en contextos nuevos
 
 Analizar
 : Capacidad de fragmentar la información, descomponerla y relacionarla
 
 Evaluar
-: Emitir juicios de valor, justificar y defender opiniones	
+: Emitir juicios de valor, justificar y defender opiniones 
 
 Crear
-: "Utilizar lo aprendido y las habilidades adquiridas para construir ideas nuevas.	
+: "Utilizar lo aprendido y las habilidades adquiridas para construir ideas nuevas. 
 :::
 
 :::{pull-quote}
 Prepárate para transformar la educación y marcar la diferencia.
- 
+
 -- Dani
 :::
-
