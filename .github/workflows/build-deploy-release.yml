@@ -1,4 +1,4 @@
-name: Build MyST site, Deploy Pages and Create Release
+name: Build MyST site, Deploy Pages and  Create Release
 
 on:
 push:
