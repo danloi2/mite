@@ -4,7 +4,7 @@
 ![MyST](https://img.shields.io/badge/Powered%20by-MyST-orange?logo=markdown)
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 
-This repository hosts the source files for the **"TFM in Action: Designing your Educational Technology Project"** course materials. This resource is specifically designed for students within the Master's in Digital Education at the **University of the Basque Country (UPV/EHU)**.
+This repository hosts the source files for the **"TFM in Action: Designing your Educational Technology Project"** course materials. This resource is specifically designed for students within the Master's in Digital Education at the **University of Extremadura (UNEX)**.
 
 The project is built using **Jupyter Book 2.1.2** and **MyST Markdown (mystmd)**.
 
