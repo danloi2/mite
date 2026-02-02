@@ -54,7 +54,7 @@ project:
       - id: upvehu
         institution: Universidad del País Vasco / Euskal Herriko Unibertsitatea
         ror: https://ror.org/000xsnr85
-        department: Didáctica y Organización Escolar
+        department: Didáctica y Organización Escolar 
         address: Tolosa Hiribidea, 70
         city: 20018-Donostia San Sebastián
         region: Comunidad Autónoma del País Vasco
