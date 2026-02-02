@@ -1,15 +1,15 @@
-name: Build MyST site, Deploy Pages and  Create Release
+name: Build MyST site, Deploy Pages and Create Release
 
 on:
 push:
-branches: [main]      # Para publicar la web
-tags: ["v*.*.*"]      # Para crear releases versionados
+branches: [main] # Para publicar la web
+tags: ["v*.."] # Para crear releases versionados
 
 env:
 BASE_URL: /${{ github.event.repository.name }}
 
 permissions:
-contents: write   # necesario para crear releases
+contents: write # necesario para crear releases
 pages: write
 id-token: write
 
