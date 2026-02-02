@@ -1,26 +1,26 @@
 # MITE: Designing your Educational Technology Project
 
 ![Jupyter Book](https://img.shields.io/badge/Built%20with-Jupyter%20Book-blue?logo=jupyter)
-[![MyST](https://img.shields.io/badge/powered_by-MyST-orange)](https://mystmd.org)
+![MyST](https://img.shields.io/badge/Powered%20by-MyST-orange?logo=markdown)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 
-This repository hosts the source files for the **"TFM in Action: Designing your Educational Technology Project"** course materials. This resource is specifically designed for students within the Master's in Digital Education.
+This repository hosts the source files for the **"TFM in Action: Designing your Educational Technology Project"** course materials. This resource is specifically designed for students within the Master's in Digital Education at the **University of the Basque Country (UPV/EHU)**.
 
-The project is built using **Jupyter Book 2.1.0** and **MyST Markdown (mystmd)**.
+The project is built using **Jupyter Book 2.1.2** and **MyST Markdown (mystmd)**.
 
 ## 🚀 About the Project
 
 The core mission of this site is to guide students through the creation of a high-quality initial draft of their **Master's Thesis (TFM)**. The content focuses on developing a rigorous **Conceptual Framework**, which is the heart of any scientific research in the field of Educational Technology.
 
 ### Technical Key Features:
-- **Engine:** Jupyter Book 2.1.0.
+- **Engine:** Jupyter Book 2.1.2 via Conda.
 - **Content Format:** MyST Markdown for enhanced technical documentation.
-- **Visualizations:** Integrated Mermaid.js for learning itineraries and flowcharts.
+- **Visualizations:** Integrated Mermaid.js for learning itineraries.
 - **Citations:** Full support for **APA 7th Edition** referencing styles.
-- **Interactive Elements:** Dropdown admonitions, glossaries, and call-to-action blocks.
 
-## 🛠️ Local Development
+## 🛠️ Environment Setup & Usage
 
-To build or modify this book locally, follow these steps:
+This project uses **Conda** to manage dependencies. Ensure you have [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/) installed.
 
 1. **Clone the repository:**
    ```bash
@@ -29,29 +29,35 @@ To build or modify this book locally, follow these steps:
 
 ```
 
-2. **Install Jupyter Book:**
+2. **Create the environment:**
+Use the provided `environment.yml` (or create it manually with the following specifications):
 ```bash
-pip install jupyter-book==2.1.0
+conda create -n MITE -c conda-forge jupyter-book==2.1.2 mystmd nodejs python=3.14
 
 ```
 
 
-3. **Build the HTML version:**
+3. **Activate the environment:**
+```bash
+conda activate MITE
+
+```
+
+
+4. **Build the project:**
 ```bash
 jb build .
 
 ```
 
 
-4. **Preview:**
-Open `_build/html/index.html` in your preferred web browser.
 
 ## 📁 Repository Structure
 
 * `index.md`: The landing page and course introduction.
-* `_config.yml`: Global configuration (metadata, execution settings, and HTML buttons).
-* `_toc.yml`: Table of Contents defining the pedagogical flow.
-* `references.bib`: BibTeX file containing all academic sources cited in the materials.
+* `_config.yml`: Global configuration (metadata and build settings).
+* `_toc.yml`: Table of Contents defining the pedagogical itinerary.
+* `references.bib`: BibTeX file containing academic sources cited (APA 7).
 
 ## 👨‍🏫 Academic Team
 
@@ -61,7 +67,9 @@ Open `_build/html/index.html` in your preferred web browser.
 
 ---
 
-*Developed for the Master's in Digital Education.*
+*Developed for the Master's in Digital Education (UPV/EHU).*
+
+```
 
 ## 👥 Author
 
