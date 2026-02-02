@@ -65,11 +65,8 @@ jb build .
 * **Héctor Galindo**.
 * **Lucía Campo**.
 
----
-
 *Developed for the Master's in Digital Education (UPV/EHU).*
 
-```
 
 ## 👥 Author
 
@@ -78,13 +75,7 @@ jb build .
 [![GitHub](https://img.shields.io/badge/GitHub-danloi2-181717?style=for-the-badge&logo=github)](https://github.com/danloi2)
 [![Researcher EHU](https://img.shields.io/badge/Researcher-EHU-blue?style=for-the-badge&logo=researchgate)](https://github.com/danloi2)
 
----
-
-```
-
 ### Quick Tips for your MyST setup:
 * **Hero Component:** Since you are using `:::{hero}`, ensure your `_config.yml` or custom CSS is set up to handle that specific class for the "orange" accent to display correctly.
 * **Mermaid Diagrams:** Ensure the `sphinxcontrib-mermaid` extension is enabled in your configuration to render the `gitGraph` you included in the index.
 
-
-```
