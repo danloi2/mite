@@ -1,6 +1,6 @@
 # MITE: Designing your Educational Technology Project
 
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://danloi2.github.io/mite)
+![Jupyter Book](https://img.shields.io/badge/Built%20with-Jupyter%20Book-blue?logo=jupyter)
 [![MyST](https://img.shields.io/badge/powered_by-MyST-orange)](https://mystmd.org)
 
 This repository hosts the source files for the **"TFM in Action: Designing your Educational Technology Project"** course materials. This resource is specifically designed for students within the Master's in Digital Education.
