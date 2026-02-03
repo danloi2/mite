@@ -1,7 +1,18 @@
 {
+  "name": "mite-project",
+  "version": "1.0.0",
+  "scripts": {
+    "init": "jupyter book init",
+    "build": "jupyter book build --html",
+    "build:strict": "jupyter book build --html --strict",
+    "build:pdf": "jupyter book build --pdf --strict",
+    "clean": "jupyter book clean --all -y",
+    "start": "jupyter book start"
+  },
   "dependencies": {
     "myst-directives": "^1.6.4",
     "myst-roles": "^1.6.4",
-    "unist-builder": "^4.0.0"
+    "unist-builder": "^4.0.0",
+    "mystmd": "latest"
   }
 }
