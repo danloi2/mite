@@ -81,4 +81,5 @@ jb build .
 
 ## Personal Note
 BASE_URL="/zonauex/avuex/pluginfile.php/2761687/mod_resource/content/2/artifact" myst build --html
+zip `_build/html` folder
 
