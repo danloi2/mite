@@ -1,6 +1,7 @@
 {
   "name": "calitur",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "init": "jupyter book init --write-toc",
     "start": "jupyter book start",
