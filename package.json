@@ -7,6 +7,8 @@
     "start": "jupyter book start",
     "build": "jupyter book build --html",
     "build:strict": "jupyter book build --html --strict",
+    "build:pdf": "jupyter book build --pdf",
+    "build:pdf:strict": "jupyter book build --pdf --strict",
     "clean": "jupyter book clean --all -y"
   },
   "dependencies": {
