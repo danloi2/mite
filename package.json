@@ -6,7 +6,7 @@
     "start": "jupyter book start",
     "build": "jupyter book build --html",
     "build:strict": "jupyter book build --html --strict",
-    "clean": "jupyter book clean --all -y",
+    "clean": "jupyter book clean --all -y"
   },
   "dependencies": {
     "jupyter-book": "^2.1.2",
