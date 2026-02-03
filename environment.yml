@@ -2,8 +2,5 @@ name: MITE
 channels:
   - conda-forge
 dependencies:
-  - jupyter-book==2.1.2
-  - mystmd
   - nodejs
-  - python=3.14
 
