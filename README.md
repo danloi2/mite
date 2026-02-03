@@ -79,3 +79,6 @@ jb build .
 * **Hero Component:** Since you are using `:::{hero}`, ensure your `_config.yml` or custom CSS is set up to handle that specific class for the "orange" accent to display correctly.
 * **Mermaid Diagrams:** Ensure the `sphinxcontrib-mermaid` extension is enabled in your configuration to render the `gitGraph` you included in the index.
 
+## Personal Note
+BASE_URL="/zonauex/avuex/pluginfile.php/2761687/mod_resource/content/2/artifact" myst build --html
+
