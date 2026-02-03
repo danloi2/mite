@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "jupyter-book": "^2.1.2",
-    "mystmd": "^1,6.6",
+    "mystmd": "^1.6.6",
     "myst-directives": "^1.6.4",
     "myst-roles": "^1.6.4",
     "unist-builder": "^4.0.0"
