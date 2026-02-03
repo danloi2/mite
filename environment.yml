@@ -1,4 +1,4 @@
-name: MITE
+name: mite
 channels:
   - conda-forge
 dependencies:
