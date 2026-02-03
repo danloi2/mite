@@ -9,7 +9,9 @@
     "build:strict": "jupyter book build --html --strict",
     "build:pdf": "jupyter book build --pdf",
     "build:pdf:strict": "jupyter book build --pdf --strict",
-    "clean": "jupyter book clean --all -y"
+    "clean": "jupyter book clean --all -y",
+    "myst": "myst build --html",
+    "myst:strict": "myst build --html --strict"
   },
   "dependencies": {
     "jupyter-book": "^2.1.2",
