@@ -541,7 +541,7 @@ Plagio
 
 ### Recursos TIC
 
-:::{iframe} <https://view.genially.com/6746ef717d0d0098a8aa6132>
+:::{iframe} https://view.genially.com/6746ef717d0d0098a8aa6132
 :width: 100%
 Elije la herramienta TIC adecuada
 :::
