@@ -57,6 +57,7 @@ Además, la identificación de un problema de investigación implica reconocer l
 - Marco Teórico: Vacíos, inconsistencias o espacios sin cubrir
 - Resultados: Impacto en la audiencia
 - Finalidad de la Investigación: Definición concisa y tentativa del problema de investigación
+  - El propósito del estudio es (a concretar) (identificar, comprender, explorar, explicar, desarrollar…) el (a concretar) (fenómeno central estudiado/tema de investigación) con el objetivo de (a concretar) (describir el objetivo principal del estudio), mediante un diseño de investigación (a concretar) (incluir aquí el diseño concreto de investigación que se empleará: Revisión Sistemática de la Literatura, Investigación Basada en Diseño, Diseño cuasiexperimental…). 
 
 3. **COMPARTE** tu preserntación interactiva en el Espacio Virtual de Aprendizaje, participando en un debate colaborativo con los compañeros del grupo.  
 ## Recursos
